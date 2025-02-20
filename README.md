@@ -11,12 +11,14 @@ UML class diagram
 
 Figma UI concept
 ---
-![kuva](https://github.com/user-attachments/assets/5dd9dec4-88a9-473e-9bea-613bc388ccf2)
+![kuva](https://github.com/user-attachments/assets/dcc9e9f0-fb81-41eb-979f-9a6b471059df)
 
-![kuva](https://github.com/user-attachments/assets/674fa1f5-2832-4617-a611-63eca78223b4)
+![kuva](https://github.com/user-attachments/assets/98e0fb38-9d43-4297-96e4-5f06d4ba1102)
 
-![kuva](https://github.com/user-attachments/assets/46b161b7-9b31-47f7-b901-20c5b5cccc4e)
+![kuva](https://github.com/user-attachments/assets/49b1b0ff-87a0-47cf-b668-cbc32283c2d7)
 
-![kuva](https://github.com/user-attachments/assets/e52cde8c-bf33-4f6e-a27e-2ef4ff2f3275)
+![kuva](https://github.com/user-attachments/assets/6fba2fc5-72b9-4d51-9dcf-10b5bab97223)
 
-![kuva](https://github.com/user-attachments/assets/1883699f-f8de-4260-bc20-c39203d8ad6b)
+![kuva](https://github.com/user-attachments/assets/202cc674-ad63-4fb3-ae52-8132925f8288)
+
+
