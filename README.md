@@ -7,7 +7,7 @@ with some tests to ensure functionality via TDD.
 
 UML class diagram
 ---
-![kuva](https://github.com/user-attachments/assets/dc41f7c4-51af-487c-9091-bb112c5c0805)
+![kuva](https://github.com/user-attachments/assets/8c1e359c-e738-482d-a403-1c1ebe78119f)
 
 Figma UI concept
 ---
