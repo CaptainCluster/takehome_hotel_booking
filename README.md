@@ -5,6 +5,9 @@ Java source code (mostly demonstrating relations, a singleton, inheritance, poly
 to demonstrate a scenario in which a customer attempts to book an overlapping time for a hotel room. The program was also made
 with some tests to ensure functionality via TDD.
 
+UML class diagram
+---
+![kuva](https://github.com/user-attachments/assets/dc41f7c4-51af-487c-9091-bb112c5c0805)
 
 Figma UI concept
 ---
